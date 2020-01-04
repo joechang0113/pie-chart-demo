@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChartDemo</string>
+    <string name="pie_chart_title">Pie Chart Demo</string>
+    <string name="inside_title">Im Pie!</string>
+    <string name="burn">num</string>
+    <string name="cons">sum</string>
+    <string name="add">Add</string>
+</resources>
